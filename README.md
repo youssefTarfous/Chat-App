@@ -1,7 +1,7 @@
-# 🗨️ Chat-App | MERN Stack 🔥
+# 🗨️ Chat-App | MERN Stack (🚧 In Progress)  
 
 ![Chat App](https://user-images.githubusercontent.com/your-profile/chat-app-banner.png)
-
+## Chat app is on 
 🚀 A real-time chat application built with the **MERN stack (MongoDB, Express, React, Node.js)**, featuring **authentication, private & group messaging, notifications, and a modern UI**.  
 
 ---
