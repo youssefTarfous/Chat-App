@@ -1,0 +1,28 @@
+@import "tailwindcss";
+@plugin "daisyui";
+@custom-variant dark (&:where(.dark, .dark *));
+
+body{
+
+}
+
+@theme {
+  /* Light Mode */
+  --color-light-bg: #F5F5F5; /* Soft Gray */
+  --color-light-text: #001F3F; /* Navy Blue */
+  --color-light-accent: #007BFF; /* Electric Blue */
+
+  /* Dark Mode */
+  --color-dark-bg: #121212; /* Dark background */
+  --color-dark-text: #F5F5F5; /* Soft Gray */
+  --color-dark-accent: #007BFF; /* Electric Blue */
+  --color-dark-secondary: #001F3F; /* Navy Blue */
+}
+@utility container {
+    margin-inline: auto;
+    padding-inline: 2rem;
+  }
+
+  body{
+    height: 80000vh;
+  }
